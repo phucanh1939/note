@@ -1,0 +1,5 @@
+---
+title: Fundamental
+---
+
+# Fundamental
