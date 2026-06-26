@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define paths
-SOURCE="./playground/main.cpp"
-OUTPUT="./playground/main_exec"
+SOURCE="./main.cpp"
+OUTPUT="./main_exec"
 
 # 1. Compile the code using clang++ (enabling C++20 and common warnings)
 echo "Compiling $SOURCE with clang++..."
